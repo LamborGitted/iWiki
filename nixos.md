@@ -64,6 +64,11 @@ nix.settings.substituters = [
 
 在```～/<your flake name>/```中初始化flake
 
-``` 
+
+#### 3、fcitx5配置输入法
+
+
+##### 问题一、：配置页面没有中文输入法：
+``` fcitx5 -r --enabel fcitx5-rime```    启用rime
 
      
