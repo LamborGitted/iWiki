@@ -1,9 +1,9 @@
-# NixOS Lantxx安装wiki
+# NixOS Lantxx安装wiki (施工中)
 
 ## 安装nixos
 在引导界面选择Gnoma或KDE
 
-### 进入系统后换国内源
+### 进入系统后换国内源 (解决卡46%)
   
 ```
 sudo vim /etc/nix/nix.conf
